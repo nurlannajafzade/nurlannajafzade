@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @nurlannajafzade
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Nurlan Najafzade 👋
 
-<!---
-nurlannajafzade/nurlannajafzade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🎓 PhD Candidate in Energy Technologies | Petroleum Engineer
+
+---
+
+🔬 Passionate about **process optimization**, **automation**, and **renewable energy solutions**.
+
+🌞 Developing tools and models for **solar energy optimization** and sustainable technologies.
+
+💡 Experienced in upstream oil & gas engineering with a focus on bridging research and industry.
+
+---
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/nurlannajafzade) | [Email](mailto:necefzadenurlan@gmail.com)
+
+---
